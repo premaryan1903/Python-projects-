@@ -5,7 +5,7 @@ print('2. Subtract')
 print('3. Multiply')
 print('4. Division')
 
-choose = input('choose any one from above')
+choose = input("choose any one from above: ")
 
 num1 = float(input('enter any number:'))
 num2 = float(input('enter second number:'))
@@ -26,4 +26,5 @@ else:
 	print('invalid syntax')
 print("     \n")
 
-print("MADE BY PREM ARYAN")
+print("MADE BY PREM ARYAN,")
+print("THANK YOU")
