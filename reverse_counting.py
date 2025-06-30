@@ -1,4 +1,4 @@
-
+# This program calculates the square of a number entered by the user.  The program continues to prompt for numbers until the user enters 0 to exit.
 while "true":
   
 
